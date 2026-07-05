@@ -42,7 +42,6 @@
       "formats": ["mp4", "m3u8"],
       "logo": "https://www.google.com/s2/favicons?domain=serieskao.top&sz=180",
       "contentLanguage": ["es"]
-    },
-
+    }
   ]
 }
